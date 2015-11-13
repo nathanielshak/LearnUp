@@ -16,6 +16,7 @@
 		F39C6ED21BF667A30049FB65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F39C6ED01BF667A30049FB65 /* LaunchScreen.storyboard */; };
 		F39C6EDD1BF667A30049FB65 /* LearnUpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F39C6EDC1BF667A30049FB65 /* LearnUpTests.m */; };
 		F39C6EE81BF667A30049FB65 /* LearnUpUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F39C6EE71BF667A30049FB65 /* LearnUpUITests.m */; };
+		F39C6EF61BF675310049FB65 /* Earth.png in Resources */ = {isa = PBXBuildFile; fileRef = F39C6EF51BF675310049FB65 /* Earth.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		F39C6EE31BF667A30049FB65 /* LearnUpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearnUpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F39C6EE71BF667A30049FB65 /* LearnUpUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LearnUpUITests.m; sourceTree = "<group>"; };
 		F39C6EE91BF667A30049FB65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F39C6EF51BF675310049FB65 /* Earth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Earth.png; path = Assets.xcassets/Earth.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				F39C6EC61BF667A30049FB65 /* ViewController.m */,
 				F39C6EC81BF667A30049FB65 /* Main.storyboard */,
 				F39C6ECE1BF667A30049FB65 /* Assets.xcassets */,
+				F39C6EF51BF675310049FB65 /* Earth.png */,
 				F39C6ED01BF667A30049FB65 /* LaunchScreen.storyboard */,
 				F39C6ED31BF667A30049FB65 /* Info.plist */,
 				F39C6ECB1BF667A30049FB65 /* LearnUp.xcdatamodeld */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F39C6EF61BF675310049FB65 /* Earth.png in Resources */,
 				F39C6ED21BF667A30049FB65 /* LaunchScreen.storyboard in Resources */,
 				F39C6ECF1BF667A30049FB65 /* Assets.xcassets in Resources */,
 				F39C6ECA1BF667A30049FB65 /* Main.storyboard in Resources */,
